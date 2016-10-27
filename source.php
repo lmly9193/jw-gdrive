@@ -10,3 +10,4 @@
 			echo '{file: "'.$source[1][$i].'",label: "'.$label.'",type: "video/mp4"},';
 		}
 	}
+?>

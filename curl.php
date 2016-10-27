@@ -24,3 +24,4 @@
 	} else {
 		$title = preg_replace("/&BASE_URL.*/", Null, preg_replace("/.*title=/", Null, $response_data));
 	}
+?>
