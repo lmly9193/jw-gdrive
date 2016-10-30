@@ -45,7 +45,7 @@
 			//},
 			sharing:{
 			    link: "<?php echo $sharing;?>",
-			    code: "<iframe src='<?php echo $sharing;?>' width='100%' height='100%' frameborder='0' scrolling='auto'></iframe>",
+			    code: "<iframe src='<?php echo $sharing;?>' width='640' height='360' frameborder='0' scrolling='auto'></iframe>",
 				heading: "分享",
 				sites: ["facebook","twitter","tumblr","googleplus","reddit","linkedin","interest","email"],
 			},
