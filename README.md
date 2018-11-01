@@ -1,6 +1,6 @@
 # JwPlayer-for-GoogleDrive (not work
 
-A Batter Way to Direct Google Drive Video<br>
+A Better Way to Direct Google Drive Video<br>
 1.Please Get your Video OpenID in Google Drive.<br>
   ex. https://drive.google.com/open?id=0B757HvrhbFeienJaWnFfWGtQYUU<br>
       so the ID is 0B757HvrhbFeienJaWnFfWGtQYUU<br>
